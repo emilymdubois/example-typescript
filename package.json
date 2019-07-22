@@ -1,0 +1,33 @@
+{
+  "name": "example-typescript",
+  "version": "1.0.0",
+  "description": "An example TypeScript implementation",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx webpack",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emilymdubois/example-typescript.git"
+  },
+  "author": "Emily DuBois",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emilymdubois/example-typescript/issues"
+  },
+  "homepage": "https://github.com/emilymdubois/example-typescript#readme",
+  "devDependencies": {
+    "@types/react": "^16.8.23",
+    "@types/react-dom": "^16.8.4",
+    "source-map-loader": "^0.2.4",
+    "ts-loader": "^6.0.4",
+    "typescript": "^3.5.3",
+    "webpack": "^4.36.1",
+    "webpack-cli": "^3.3.6"
+  },
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
