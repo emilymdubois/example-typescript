@@ -1,6 +1,6 @@
 # example-typescript
 
-An example TypeScript implementation using Webpack.
+An example TypeScript implementation using React and Webpack.
 
 ## Install
 
